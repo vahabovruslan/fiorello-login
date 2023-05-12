@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+button{
+    padding: 18px 35px;
+    background-color: rgb(243,79,63);
+    color: white;
+    border: none;
+    font-size: 17px;
+    margin: 5px 10px;
+}
+.inputs input{
+padding: 20px;   
+width: 40%;
+display: block;
+margin: 10px 0;
+}
+
+.inputs{
+ width: 90%;
+}
+#checkbox{
+    display: inline-block;
+}
+.login{
+    margin: 5%;
+}
+h1{
+    margin: 10px 0;
+}
+p{
+    margin: 10px 0;
+}
